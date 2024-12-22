@@ -1,0 +1,11 @@
+release/book.o
+release/borrowing.o
+release/librarysystem.o
+release/main.o
+release/mainwindow.o
+release/user.o
+release/moc_book.o
+release/moc_borrowing.o
+release/moc_librarysystem.o
+release/moc_mainwindow.o
+release/moc_user.o
